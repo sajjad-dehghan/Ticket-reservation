@@ -1,3 +1,14 @@
+## نمای واقعی فرانت‌اند
+
+![فرم ورود](docs/showroom/ticket-login.jpg)
+![فرم ثبت‌نام](docs/showroom/ticket-register.jpg)
+
+فرم‌ها از اجرای واقعی فرانت‌اند ثبت شدند؛ اطلاعاتی ارسال و حسابی ساخته نشده و بک‌اند متصل نیست. [گالری پروژه](https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/fa/projects/ticket-reservation).
+
+![صفحهٔ اصلی سامانهٔ رزرو صندلی](docs/showroom/ticket-reservation-home.jpg)
+
+این تصویر در ۷ اکتبر ۲۰۲۶ از اجرای واقعی صفحهٔ اصلی فرانت‌اند React با `npm ci` و `npm run dev -- --host 127.0.0.1 --port 4315` ثبت شده است. بک‌اند در این اجرا متصل نبود؛ هیچ ورود، رزرو یا آمار ساختگی ثبت نشد. کد برنامه و قفل وابستگی‌ها برای گرفتن تصویر تغییر نکردند.
+
 <div align="center">
   <h1>🎟️ سامانه هوشمند رزرو صندلی آمفی‌تئاتر</h1>
 
