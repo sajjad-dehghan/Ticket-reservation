@@ -1,3 +1,42 @@
+<!-- visual-showroom:start -->
+<p align="center">
+  <img src="docs/showroom/readme-banner.svg" alt="Ticket Reservation — repository cover" width="100%">
+</p>
+
+<p align="center">
+  <strong>Ticket Reservation</strong><br>
+  TOOLS &amp; INTERFACES
+</p>
+
+<p align="center">
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/ticket-reservation"><strong>Explore the showroom ↗</strong></a> ·
+  <a href="#implementation--original-documentation">Setup &amp; implementation ↓</a>
+</p>
+
+Seat booking for a university amphitheater. You pick seats on a live map, each role sees its own screens, and two people can't book the same seat.
+
+## Visual tour
+
+[![Actual seat-booking frontend homepage · local run, backend disconnected](docs/showroom/readme-view-1.jpg)](https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/ticket-reservation)
+
+<p align="center">
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/ticket-reservation"><img src="docs/showroom/readme-view-2.jpg" alt="Login form · no data submitted" width="48%"></a>
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/ticket-reservation"><img src="docs/showroom/readme-view-3.jpg" alt="Registration form · no account created" width="48%"></a>
+</p>
+
+1. Actual seat-booking frontend homepage · local run, backend disconnected
+2. Login form · no data submitted
+3. Registration form · no account created
+
+Real captures or owner-supplied images, not generated product mockups. Demo/local data and edition boundaries are documented below.
+
+## Implementation & original documentation
+
+The existing run instructions, architecture, limitations and credits are preserved below.
+
+---
+<!-- visual-showroom:end -->
+
 ## نمای واقعی فرانت‌اند
 
 ![فرم ورود](docs/showroom/ticket-login.jpg)
